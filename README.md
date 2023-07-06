@@ -14,4 +14,8 @@ In the project directory, you can run:
 
 ## How to use this template:
 
-Clone the repo and install dependencies listed in package.json. No need to install tailwind again.
+Clone the repo and install following dependencies:
+
+`npm install react-scripts`
+
+That's it. No need to install anything extra.
